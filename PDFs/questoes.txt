@@ -1,0 +1,38 @@
+Operações com fatorial:
+Fatorial
+O Último Dígito Não-Zero
+Fatorial de Novo!
+Quantos Zeros e Quantos Dígitos?
+
+
+Grafos com Exponenciação de Matrizes:
+(ok) Teletransporte
+Bile
+Destrave o Celular
+Senhas de Collatz
+
+Big Step Giant Step:
+(ok) Destravando o Celular
+(tle) Registrador de Deslocamento
+
+
+Semelhante a FFT:
+Brincando com Transformações
+
+BIT/Seg3:
+O Cálice de Fogo
+Brincando com Pomekons
+Inventário de Pomekon
+Mantenha Isso Energizado
+Angariando Fundos
+Falha ao Cercar os Legumes
+Sexta-Feira 13
+
+Combinação:
+Onze
+Guardiões Curiosos
+Counting Self-Rotating Subsets
+Variados Pratos da Linda Nefertiti
+
+Mochila:
+Zak Galou
