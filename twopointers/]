@@ -1,0 +1,33 @@
+#include<bits/stdc++.h>
+#define vi vector<int>
+#define pb push_back
+
+using namespace std;
+
+int ta, tb;
+vi pos[30];
+string sa, sb;
+char great;
+
+int main(){
+    ios_base::sync_with_stdio(0);
+    cin >> sa >> sb;
+    
+    ta = sa.size();
+    tb = sb.size();
+
+    for(int i = 0; i < ta; ++i){
+        pos[sa[i] - 'a'].pb(i);
+    }
+    cout << sb[tb - 1] << endl;
+    /*
+    int last_great = pos[sb[tb - 1]].back(), c;
+    for(int i = tb - 2; i >= 0; --i){
+        c = sb[i] - 'a';
+        while(pos[c].back() > last_great) pos[c].pop_back();
+        last_great = pos[c].back();
+    }
+    */
+
+    return 0;
+}
