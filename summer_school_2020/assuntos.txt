@@ -1,0 +1,72 @@
+Assuntos escola de verão 2020
+
+Dia 1 - 20/01 - Jhúlia
+
+Recorrência Linear
+Congruência modular
+Fermat
+Euler
+Teorema Chinês do Resto
+Inclusão e exclusão
+Contagem
+
+Dia 2 - 21/01 - Jhúlia
+
+Teoria dos jogos 
+
+Dia 3 - 22/01 - André
+
+Funcional graphs
+Min queue
+
+Dia 4 - 23/01 - Sponsors
+
+Dia 5 - 24/01 - André
+
+Bipartite Matching
+Vertex Cover
+Independent Set
+Edge cover
+Minimum path cover em DAG
+Xor trie
+
+Dia 6 - 25/01 - André
+
+Continuação de matching
+Teorema de Hall
+Teorema de Dilworth
+  - partially ordered sets
+Maior j < i, tal que v[j] > v[i] em O(N)
+
+Dia 7 - 26/01 - Hopi Hari
+
+Dia 8 - 27/01 - TFG
+
+Sqrt decomposition
+  - em vetor
+  - nas queries 
+  - MO 
+  - em qualquer coisa
+
+Dia 9 - 28/01 - TFG
+
+Small to large
+Centroid
+HLD
+
+Dia 10 - 29/01 - TFG
+
+Knuth
+DeC
+
+Dia 11 - 30/01 - Sponsors
+
+Dia 12 - 31/01 - Cristina
+
+Convex Hull
+Line Sweep
+
+Dia 13 - 01/02 - TFG
+
+Dp em árvore
+Questão Doce de Banana
